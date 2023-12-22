@@ -24,7 +24,7 @@ let defines: [CSetting] = [.define("AS_IG_LIST_KIT", to: "0"),
                            .define("IG_LIST_COLLECTION_VIEW", to: "0")]
 
 let package = Package(
-    name: "Texture",
+    name: "CTexture",
     platforms: [
         .iOS(.v13)
     ],

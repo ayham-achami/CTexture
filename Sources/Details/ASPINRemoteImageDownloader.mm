@@ -16,10 +16,10 @@
 #import "ASThread.h"
 #import "ASImageContainerProtocolCategories.h"
 
-#if __has_include (<PINRemoteImage/PINGIFAnimatedImage.h>)
+#if __has_include ("PINGIFAnimatedImage.h")
 #define PIN_ANIMATED_AVAILABLE 1
-#import <PINRemoteImage/PINCachedAnimatedImage.h>
-#import <PINRemoteImage/PINAlternateRepresentationProvider.h>
+#import "PINCachedAnimatedImage.h"
+#import "PINAlternateRepresentationProvider.h"
 #else
 #define PIN_ANIMATED_AVAILABLE 0
 #endif
@@ -30,9 +30,9 @@
 #define PIN_WEBP_AVAILABLE  0
 #endif
 
-#import <PINRemoteImage/PINRemoteImageManager.h>
-#import <PINRemoteImage/NSData+ImageDetectors.h>
-#import <PINRemoteImage/PINRemoteImageCaching.h>
+#import "PINRemoteImageManager.h"
+#import "NSData+ImageDetectors.h"
+#import "PINRemoteImageCaching.h"
 
 static inline PINRemoteImageManagerPriority PINRemoteImageManagerPriorityWithASImageDownloaderPriority(ASImageDownloaderPriority priority) {
   switch (priority) {
