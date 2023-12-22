@@ -1,1 +1,1 @@
-../Details/ASCollectionFlowLayoutDelegate.h
+../..//Sources/Details/ASCollectionFlowLayoutDelegate.h

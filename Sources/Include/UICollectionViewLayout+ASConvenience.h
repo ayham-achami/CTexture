@@ -1,1 +1,1 @@
-../Details/UICollectionViewLayout+ASConvenience.h
+../..//Sources/Details/UICollectionViewLayout+ASConvenience.h

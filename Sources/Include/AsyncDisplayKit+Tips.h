@@ -1,1 +1,1 @@
-../Debug/AsyncDisplayKit+Tips.h
+../..//Sources/Debug/AsyncDisplayKit+Tips.h

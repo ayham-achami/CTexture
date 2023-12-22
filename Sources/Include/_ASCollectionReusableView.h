@@ -1,1 +1,1 @@
-../Details/_ASCollectionReusableView.h
+../..//Sources/Details/_ASCollectionReusableView.h

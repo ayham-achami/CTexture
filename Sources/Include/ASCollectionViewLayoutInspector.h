@@ -1,1 +1,1 @@
-../Details/ASCollectionViewLayoutInspector.h
+../..//Sources/Details/ASCollectionViewLayoutInspector.h

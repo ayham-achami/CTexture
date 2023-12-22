@@ -1,1 +1,1 @@
-../Details/ASPINRemoteImageDownloader.h
+../..//Sources/Details/ASPINRemoteImageDownloader.h

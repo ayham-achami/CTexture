@@ -1,1 +1,1 @@
-../Details/ASCollectionViewLayoutController.h
+../..//Sources/Details/ASCollectionViewLayoutController.h

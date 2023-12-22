@@ -1,1 +1,1 @@
-../Details/ASScrollDirection.h
+../..//Sources/Details/ASScrollDirection.h

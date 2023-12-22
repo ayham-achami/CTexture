@@ -1,1 +1,0 @@
-../TextExperiment/String/ASTextRunDelegate.h

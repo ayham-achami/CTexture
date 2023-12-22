@@ -1,1 +1,1 @@
-../Details/ASBasicImageDownloader.h
+../..//Sources/Details/ASBasicImageDownloader.h

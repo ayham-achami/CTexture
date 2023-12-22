@@ -1,1 +1,1 @@
-../Details/CoreGraphics+ASConvenience.h
+../..//Sources/Details/CoreGraphics+ASConvenience.h

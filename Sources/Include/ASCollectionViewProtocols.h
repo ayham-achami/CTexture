@@ -1,1 +1,1 @@
-../ASCollectionViewProtocols.h
+../..//Sources/ASCollectionViewProtocols.h
