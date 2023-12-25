@@ -17,7 +17,8 @@ let headersSearchPath: [CSetting] = [.headerSearchPath("."),
                                      .headerSearchPath("TextExperiment/Utility"),
                                      .headerSearchPath("TextExperiment/Component")]
 
-let defines: [CSetting] = [.define("AS_IG_LIST_KIT", to: "0"),
+let defines: [CSetting] = [.define("AS_USE_VIDEO", to: "1"),
+                           .define("AS_IG_LIST_KIT", to: "0"),
                            .define("AS_ENABLE_TEXTNODE", to: "0"),
                            .define("AS_IG_LIST_DIFF_KIT", to: "0"),
                            .define("AS_PIN_REMOTE_IMAGE", to: "1"),
