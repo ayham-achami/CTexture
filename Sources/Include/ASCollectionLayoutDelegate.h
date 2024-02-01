@@ -1,1 +1,1 @@
-../Details/ASCollectionLayoutDelegate.h
+../..//Sources/Details/ASCollectionLayoutDelegate.h

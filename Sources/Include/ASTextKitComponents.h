@@ -1,1 +1,1 @@
-../TextKit/ASTextKitComponents.h
+../..//Sources/TextKit/ASTextKitComponents.h

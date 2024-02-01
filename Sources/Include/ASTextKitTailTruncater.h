@@ -1,1 +1,0 @@
-../TextKit/ASTextKitTailTruncater.h

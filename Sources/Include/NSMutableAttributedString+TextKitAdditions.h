@@ -1,1 +1,1 @@
-../Details/NSMutableAttributedString+TextKitAdditions.h
+../..//Sources/Details/NSMutableAttributedString+TextKitAdditions.h

@@ -1,1 +1,1 @@
-../Details/_ASCollectionViewCell.h
+../..//Sources/Details/_ASCollectionViewCell.h

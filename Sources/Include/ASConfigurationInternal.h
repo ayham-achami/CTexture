@@ -1,1 +1,1 @@
-../ASConfigurationInternal.h
+../..//Sources/ASConfigurationInternal.h

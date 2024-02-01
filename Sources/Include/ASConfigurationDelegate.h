@@ -1,1 +1,1 @@
-../ASConfigurationDelegate.h
+../..//Sources/ASConfigurationDelegate.h

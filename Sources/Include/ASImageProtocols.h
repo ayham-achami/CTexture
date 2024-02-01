@@ -1,1 +1,1 @@
-../Details/ASImageProtocols.h
+../..//Sources/Details/ASImageProtocols.h

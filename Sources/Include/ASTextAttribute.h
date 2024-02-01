@@ -1,1 +1,1 @@
-../TextExperiment/String/ASTextAttribute.h
+../..//Sources/TextExperiment/String/ASTextAttribute.h

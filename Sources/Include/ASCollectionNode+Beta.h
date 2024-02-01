@@ -1,1 +1,1 @@
-../ASCollectionNode+Beta.h
+../..//Sources/ASCollectionNode+Beta.h

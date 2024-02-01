@@ -1,1 +1,1 @@
-../Details/ASPhotosFrameworkImageRequest.h
+../..//Sources/Details/ASPhotosFrameworkImageRequest.h

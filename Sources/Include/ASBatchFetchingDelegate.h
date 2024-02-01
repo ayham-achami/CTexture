@@ -1,1 +1,1 @@
-../Details/ASBatchFetchingDelegate.h
+../..//Sources/Details/ASBatchFetchingDelegate.h

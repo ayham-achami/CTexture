@@ -1,1 +1,1 @@
-../Details/ASTableLayoutController.h
+../..//Sources/Details/ASTableLayoutController.h

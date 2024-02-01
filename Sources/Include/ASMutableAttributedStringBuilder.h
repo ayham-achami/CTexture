@@ -1,1 +1,1 @@
-../Details/ASMutableAttributedStringBuilder.h
+../..//Sources/Details/ASMutableAttributedStringBuilder.h

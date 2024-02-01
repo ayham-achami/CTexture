@@ -1,1 +1,1 @@
-../Details/UIView+ASConvenience.h
+../..//Sources/Details/UIView+ASConvenience.h

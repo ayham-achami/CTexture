@@ -1,1 +1,1 @@
-../TextExperiment/Component/ASTextLine.h
+../..//Sources/TextExperiment/Component/ASTextLine.h

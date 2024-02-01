@@ -1,1 +1,1 @@
-../Details/NSArray+Diffing.h
+../..//Sources/Details/NSArray+Diffing.h
